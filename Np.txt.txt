@@ -4,3 +4,5 @@ public stativ voisd main Strings args[]{
 
 int a, b,c;
 }}
+
+patillllllllllllllll
